@@ -11,5 +11,10 @@ namespace DietApp
         {
 
         }
+
+        private void register_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Επιτυχής Εγγραφή!");
+        }
     }
 }

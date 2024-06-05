@@ -1,0 +1,17 @@
+C:\Users\User\Documents\GitHub\DietApp\DietApp\bin\Debug\net8.0-windows\DietApp.exe
+C:\Users\User\Documents\GitHub\DietApp\DietApp\bin\Debug\net8.0-windows\DietApp.deps.json
+C:\Users\User\Documents\GitHub\DietApp\DietApp\bin\Debug\net8.0-windows\DietApp.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DietApp\DietApp\bin\Debug\net8.0-windows\DietApp.dll
+C:\Users\User\Documents\GitHub\DietApp\DietApp\bin\Debug\net8.0-windows\DietApp.pdb
+C:\Users\User\Documents\GitHub\DietApp\DietApp\obj\Debug\net8.0-windows\DietApp.Form1.resources
+C:\Users\User\Documents\GitHub\DietApp\DietApp\obj\Debug\net8.0-windows\DietApp.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\DietApp\DietApp\obj\Debug\net8.0-windows\DietApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DietApp\DietApp\obj\Debug\net8.0-windows\DietApp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DietApp\DietApp\obj\Debug\net8.0-windows\DietApp.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DietApp\DietApp\obj\Debug\net8.0-windows\DietApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DietApp\DietApp\obj\Debug\net8.0-windows\DietApp.sourcelink.json
+C:\Users\User\Documents\GitHub\DietApp\DietApp\obj\Debug\net8.0-windows\DietApp.dll
+C:\Users\User\Documents\GitHub\DietApp\DietApp\obj\Debug\net8.0-windows\refint\DietApp.dll
+C:\Users\User\Documents\GitHub\DietApp\DietApp\obj\Debug\net8.0-windows\DietApp.pdb
+C:\Users\User\Documents\GitHub\DietApp\DietApp\obj\Debug\net8.0-windows\DietApp.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DietApp\DietApp\obj\Debug\net8.0-windows\ref\DietApp.dll
