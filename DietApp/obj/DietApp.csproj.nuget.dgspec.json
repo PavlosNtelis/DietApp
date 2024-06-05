@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\DietApp\\DietApp\\DietApp.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\DietApp\\DietApp\\DietApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\DietApp\\DietApp\\DietApp.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\DietApp\\DietApp\\DietApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\DietApp\\DietApp\\DietApp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\DietApp\\DietApp\\DietApp.csproj",
         "projectName": "DietApp",
-        "projectPath": "C:\\Users\\User\\source\\repos\\DietApp\\DietApp\\DietApp.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\DietApp\\DietApp\\DietApp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\DietApp\\DietApp\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\DietApp\\DietApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
